@@ -10,7 +10,8 @@
 
 ## 🔧 About Me
 
-I love taking hardware and turning it into something that **thinks, reacts, and evolves**. Whether it’s a pipeline-inspecting bot or a voice-guided campus assistant, I design systems that **sense, process, and respond in real time**.
+I love taking hardware and turning it into something that **thinks, reacts, and evolves**.Whether it's a pipeline-inspecting bot crawling through narrow spaces or a voice-guided robotic assistant navigating a college campus, I design intelligent systems that sense their environment, process data at the edge, and respond in real time — all with minimal human intervention.
+I'm also deeply interested in automotive technology, where embedded systems, sensors, and real-time decision-making converge to create the future of smart, connected, and autonomous vehicles.
 
 > I combine the power of **Embedded C**, **IoT**, and **Machine Learning** to create next-gen embedded solutions.
 
@@ -64,12 +65,7 @@ Voice-controlled navigation robot powered by **Raspberry Pi**, **Google Maps**, 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning bare metal programming
+- 👯 I’m looking to collaborate on projects on stm32 m4 and embedded software based projects
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: A lazy guy with great ambitions 😎
