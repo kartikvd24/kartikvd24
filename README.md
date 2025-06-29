@@ -19,7 +19,7 @@ I'm also deeply interested in automotive technology, where embedded systems, sen
 
 ## 🚀 Projects That Define Me
 
-### 🔍 [Automated Blockage Detection Bot](https://github.com/kartikvd24/Object-detection-using-ESP32-CAM-and-Edge-impulse)
+### 🔍 Automated Blockage Detection Bot
 Detects pipeline blockages in real-time using **ESP32-CAM**, **YOLO**, and **Edge Impulse**, while streaming video and GPS location.
 
 ### 🪴 Smart Agriculture with LoRaWAN
@@ -30,6 +30,10 @@ Generated realistic bird images from text using a **StackGAN** trained on the **
 
 ### 🗺️ Robotic Pedestrian Guide – DSCE Campus
 Voice-controlled navigation robot powered by **Raspberry Pi**, **Google Maps**, and **QR code input** for indoor campus directions.
+
+### 📦 [Microcontroller & Sensor Detection](https://github.com/kartikvd24/Object-detection-using-ESP32-CAM-and-Edge-impulse)
+Built an object detection model using Edge Impulse to identify various components like ESP32, Arduino Uno, DS18B20, and LoRa modules using a webcam or ESP32-CAM.
+Useful for smart lab inventory, embedded education, and component recognition systems.
 
 ---
 
