@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--# 👋 Hi there, I'm Kartik Desai!
+
+## 👋 Hi there, I'm Kartik Desai!
 
 🎓 Electronics & Communication Engineering student at **Dayananda Sagar College of Engineering**, Bengaluru  
 💡 Embedded Systems Lead at **The Point Seven** – DSCE’s VLSI & Embedded Systems Club  
