@@ -3,8 +3,8 @@
 ## 👋 Hi there, I'm Kartik Desai!
 
 🎓 Electronics & Communication Engineering student at **Dayananda Sagar College of Engineering**, Bengaluru  
-💡 Embedded Systems Lead at **The Point Seven** – DSCE’s VLSI & Embedded Systems Club  
 💻 Passionate about building **smart, real-world solutions using microcontrollers and edge AI**
+💡 Embedded Systems Lead at **The Point Seven** – DSCE’s VLSI & Embedded Systems Club  
 
 ---
 
