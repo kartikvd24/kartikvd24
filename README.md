@@ -65,7 +65,6 @@ Useful for smart lab inventory, embedded education, and component recognition sy
 
 > “I build what I wish existed.” — Kartik Desai 🚀
 
-**kartikvd24/kartikvd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
