@@ -19,7 +19,7 @@ I'm also deeply interested in automotive technology, where embedded systems, sen
 
 ## 🚀 Projects That Define Me
 
-### 🔍 Automated Blockage Detection Bot
+### 🔍 [Automated Blockage Detection Bot](https://github.com/kartikvd24/Pipe-Blockage-Detection-Bot-with-Locating-Tracking)
 Detects pipeline blockages in real-time using **ESP32-CAM**, **YOLO**, and **Edge Impulse**, while streaming video and GPS location.
 
 ### 🪴 Smart Agriculture with LoRaWAN
