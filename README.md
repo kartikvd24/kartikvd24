@@ -40,10 +40,10 @@ Useful for smart lab inventory, embedded education, and component recognition sy
 ## 🧠 What I Work With
 
 - 💬 **Languages:** C, C++, Embedded C, Python (basic), Assembly  
-- ⚙️ **Platforms:** ESP32, ESP8266, STM32, Arduino, Raspberry Pi  
+- ⚙️ **Microcontroller/processors:** ESP32, ESP8266, STM32(F401re), Arduino, Raspberry Pi  
 - 🛠️ **Tools:** STM32CubeIDE, Keil uVision, Edge Impulse, MATLAB, Cadence  
 - 📡 **Protocols:** I2C, SPI, UART, CAN, LIN  
-- 🌍 **Domains:** IoT, Embedded Systems, Edge AI, VLSI (Basic)
+- 🌍 **Domains:** IoT, Embedded Systems, Edge AI, RTOS, VLSI (Basic)
 
 ---
 
